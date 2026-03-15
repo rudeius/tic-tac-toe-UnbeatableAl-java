@@ -1,6 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import java.util.Random;
+
 public class TicTacToeGame {
     public void gamePlay(){
         Scanner scanner=new Scanner(System.in);
