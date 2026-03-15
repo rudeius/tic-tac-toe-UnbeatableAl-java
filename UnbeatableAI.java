@@ -1,3 +1,4 @@
+// using minimax algorithm to predict all future move, Player can not beat this AI
 public class UnbeatableAI extends TicTacToeGame{
     protected int smartAl(boolean[] pickOfX, boolean[] pickOfO){
         int alchoice=-1;
