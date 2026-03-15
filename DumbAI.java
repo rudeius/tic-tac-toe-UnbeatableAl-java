@@ -1,5 +1,5 @@
 import java.util.Random;
-
+// this AI just make some random move
 public class DumbAI {
     protected int dumbAl(boolean[] pickOfX, boolean[] pickOfO){
         int alChoice;
